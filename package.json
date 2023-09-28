@@ -1,0 +1,25 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhrumitpatel48/React-Learning.git"
+  },
+  "keywords": [
+    "React",
+    "React.js",
+    "Reactjs",
+    "ReactJS"
+  ],
+  "author": "Dhrumit Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhrumitpatel48/React-Learning/issues"
+  },
+  "homepage": "https://github.com/dhrumitpatel48/React-Learning#readme"
+}
