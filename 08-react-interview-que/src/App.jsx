@@ -7,6 +7,15 @@ function App() {
   const addValue = () => {
     // counter = counter + 1
     // console.log(counter)
+
+    // This code will not increase counter value by 4, it will only increase by 1
+    // This is react behaviour. If you want to update value 4 times refer below code.
+    // setCounter(counter => counter + 1);
+    // setCounter(counter => counter + 1);
+    // setCounter(counter => counter + 1);
+    // setCounter(counter => counter + 1);
+
+
     setCounter(prevCounter => prevCounter + 1);
     setCounter(prevCounter => prevCounter + 1);
     setCounter(prevCounter => prevCounter + 1);
